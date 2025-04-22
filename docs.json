@@ -22,14 +22,17 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Explorer",
             "pages": [
               "essentials/markdown",
               "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+            ]
+          },
+          {
+            "group": "Chat",
+            "pages": [
+              "essentials/markdown",
+              "essentials/code",
             ]
           }
         ]
@@ -38,7 +41,7 @@
         "tab": "Godview",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Getting Started",
             "pages": [
               "api-reference/introduction"
             ]
@@ -84,7 +87,7 @@
     "primary": {
       "type": "button",
       "label": "Account",
-      "href": "https://account.adulis.ai"
+      "href": "https://account.adulis.ai/home"
     }
   },
   "footer": {
