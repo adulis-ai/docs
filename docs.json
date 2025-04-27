@@ -53,8 +53,8 @@
     }
   },
   "logo": {
-    "light": "/assets/logo/light.svg",
-    "dark": "/assets/logo/dark.svg"
+    "light": "/assets/logo/light.png",
+    "dark": "/assets/logo/dark.png"
   },
   "navbar": {
     "links": [
