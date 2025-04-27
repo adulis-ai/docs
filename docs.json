@@ -40,14 +40,14 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://docs.adulis.ai",
-          "icon": "book-open-cover"
+          "anchor": "Blog",
+          "href": "https://adulisai.substack.com",
+          "icon": "newspaper"
         },
         {
-          "anchor": "Blog",
-          "href": "https://adulis.ai/blog",
-          "icon": "newspaper"
+          "anchor": "GitHub",
+          "href": "https://github.com/adulis-ai",
+          "icon": "github"
         }
       ]
     }
