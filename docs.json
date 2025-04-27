@@ -11,6 +11,12 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Documentation",
+        "pages": [
+          "introduction"
+        ]
+      },
+      {
         "tab": "Dora",
         "pages": [
           "dora/introduction",
