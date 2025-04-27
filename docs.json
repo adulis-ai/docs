@@ -7,54 +7,33 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/assets/favicon.svg",
   "navigation": {
     "tabs": [
       {
         "tab": "Dora",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "introduction",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Explorer",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-            ]
-          },
-          {
-            "group": "Chat",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-            ]
-          }
+        "pages": [
+          "dora/introduction",
+          "dora/explorer",
+          "dora/chat"
         ]
       },
       {
         "tab": "Godview",
-        "groups": [
-          {
-            "group": "Getting Started",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
+        "pages": [
+          "godview/introduction",
+          "godview/search",
+          "godview/news",
+          "godview/discover",
+          "godview/mobile"
+        ]
+      },
+      {
+        "tab": "Persys",
+        "pages": [
+          "persys/introduction",
+          "persys/set-up",
+          "persys/log-in"
         ]
       }
     ],
@@ -74,8 +53,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/assets/logo/light.svg",
+    "dark": "/assets/logo/dark.svg"
   },
   "navbar": {
     "links": [
