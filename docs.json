@@ -16,6 +16,10 @@
       "dark": "#19202A"
     }
   },
+  "logo": {
+    "light": "/assets/logo/light.png",
+    "dark": "/assets/logo/dark.png"
+  },
   "favicon": "/assets/favicon.ico",
   "navigation": {
     "tabs": [
@@ -119,10 +123,6 @@
         }
       ]
     }
-  },
-  "logo": {
-    "light": "/assets/logo/light.png",
-    "dark": "/assets/logo/dark.png"
   },
   "navbar": {
     "links": [
