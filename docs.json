@@ -25,8 +25,25 @@
     "tabs": [
       {
         "tab": "Documentation",
-        "pages": [
-          "introduction"
+        "groups": [
+          {
+            "group": "Account",
+            "pages": [
+              "home/account/profile",
+              "home/account/wallet",
+              "home/account/sessions",
+              "home/account/notifications",
+              "home/account/password-reset"
+            ]
+          },
+          {
+            "group": "Products",
+            "pages": [
+              "home/products/dora",
+              "home/products/godview",
+              "home/products/persys"
+            ]
+          }
         ]
       },
       {
