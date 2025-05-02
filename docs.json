@@ -26,6 +26,7 @@
       {
         "tab": "Documentation",
         "pages": [
+          "home/overview",
           "home/account",
           "home/products"
         ]
