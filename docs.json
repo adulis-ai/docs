@@ -34,14 +34,14 @@
         "icon": "folder",
         "groups": [
           {
-            "group": "Introduction",
+            "group": "Overview",
             "icon": "play",
             "pages": [
-              "dora/introduction/introduction",
-              "dora/introduction/accounts",
-              "dora/introduction/updates",
-              "dora/introduction/privacy",
-              "dora/introduction/changelog"
+              "dora/overview/introduction",
+              "dora/overview/accounts",
+              "dora/overview/updates",
+              "dora/overview/privacy",
+              "dora/overview/changelog"
             ]
           },
           {
@@ -75,10 +75,10 @@
         "icon": "map",
         "groups": [
           {
-            "group": "Introduction",
+            "group": "Overview",
             "pages": [
-              "godview/introduction/introduction",
-              "godview/introduction/mobile-app"
+              "godview/overview/introduction",
+              "godview/overview/mobile-app"
             ]
           },
           {
