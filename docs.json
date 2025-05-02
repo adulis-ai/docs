@@ -3,7 +3,9 @@
   "theme": "willow",
   "name": "Adulis AI",
   "colors": {
-    "primary": "#525D6A"
+    "primary": "#525D6A",
+    "light": "#6887A9",
+    "dark": "#6887A9"
   },
   "icons": {
     "library": "fontawesome"
