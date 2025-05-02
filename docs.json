@@ -22,6 +22,7 @@
         "groups": [
           {
             "group": "Introduction",
+            "icon": "play",
             "pages": [
               "dora/introduction/introduction",
               "dora/introduction/accounts",
@@ -32,6 +33,7 @@
           },
           {
             "group": "Explorer",
+            "icon": "folder",
             "pages": [
               "dora/explorer/introduction",
               "dora/explorer/navigation",
@@ -45,6 +47,7 @@
           },
           {
             "group": "Chat",
+            "icon": "chat",
             "pages": [
               "dora/chat/introduction",
               "dora/chat/mentions",
