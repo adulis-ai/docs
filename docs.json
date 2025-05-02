@@ -9,8 +9,10 @@
     "library": "fontawesome"
   },
   "background": {
-    "light": "#f7f5f3",
-    "dark": "#19202A"
+    "color": {
+      "light": "#f7f5f3",
+      "dark": "#19202A"
+    }
   },
   "favicon": "/assets/favicon.ico",
   "navigation": {
