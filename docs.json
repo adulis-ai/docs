@@ -85,6 +85,7 @@
       },
       {
         "tab": "Persys",
+        "icon": "microchip-ai",
         "pages": [
           "persys/introduction",
           "persys/set-up",
