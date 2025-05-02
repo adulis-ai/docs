@@ -25,7 +25,8 @@
               "dora/introduction/introduction",
               "dora/introduction/accounts",
               "dora/introduction/updates",
-              "dora/introduction/privacy"
+              "dora/introduction/privacy",
+              "dora/introduction/changelog"
             ]
           },
           {
