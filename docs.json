@@ -18,10 +18,38 @@
       },
       {
         "tab": "Dora",
-        "pages": [
-          "dora/introduction",
-          "dora/explorer",
-          "dora/chat"
+        "groups": [
+          {
+            "group": "Introduction",
+            "pages": [
+              "dora/introduction/introduction",
+              "dora/introduction/accounts",
+              "dora/introduction/updates",
+              "dora/introduction/privacy"
+            ]
+          },
+          {
+            "group": "Explorer",
+            "pages": [
+              "dora/explorer/introduction",
+              "dora/explorer/navigation",
+              "dora/explorer/indexing",
+              "dora/explorer/views",
+              "dora/explorer/quick-search",
+              "dora/explorer/hidden-files",
+              "dora/explorer/ignoring-files",
+              "dora/explorer/file-options"
+            ]
+          },
+          {
+            "group": "Chat",
+            "pages": [
+              "dora/chat/introduction",
+              "dora/chat/mentions",
+              "dora/chat/agent-mode",
+              "dora/chat/downloads"
+            ]
+          }
         ]
       },
       {
