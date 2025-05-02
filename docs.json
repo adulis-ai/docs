@@ -54,12 +54,30 @@
       },
       {
         "tab": "Godview",
-        "pages": [
-          "godview/introduction",
-          "godview/search",
-          "godview/news",
-          "godview/discover",
-          "godview/mobile"
+        "groups": [
+          {
+            "group": "Introduction",
+            "pages": [
+              "godview/introduction/introduction",
+              "godview/introduction/mobile-app"
+            ]
+          },
+          {
+            "group": "Map",
+            "pages": [
+              "godview/map/introduction",
+              "godview/map/themes",
+              "godview/map/gestures"
+            ]
+          },
+          {
+            "group": "Chat",
+            "pages": [
+              "godview/chat/introduction",
+              "godview/chat/locate-me",
+              "godview/chat/pointer"
+            ]
+          }
         ]
       },
       {
