@@ -106,7 +106,7 @@
         "tab": "Persys",
         "icon": "microchip-ai",
         "pages": [
-          "persys/introduction",
+          "persys/getting-started",
           "persys/set-up",
           "persys/log-in"
         ]
