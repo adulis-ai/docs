@@ -17,10 +17,10 @@
     }
   },
   "logo": {
-    "light": "/assets/logo/light.png",
-    "dark": "/assets/logo/dark.png"
+    "light": "/assets/logo/light.png?v=0.2",
+    "dark": "/assets/logo/dark.png?v=0.2"
   },
-  "favicon": "/assets/favicon.ico",
+  "favicon": "/assets/favicon.png",
   "navigation": {
     "tabs": [
       {
