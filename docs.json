@@ -68,7 +68,7 @@
               "dora/chat/introduction",
               "dora/chat/mentions",
               "dora/chat/agent-mode",
-              "dora/chat/downloads"
+              "dora/chat/exports"
             ]
           }
         ]
