@@ -39,7 +39,8 @@
             "group": "Overview",
             "icon": "play",
             "pages": [
-              "dora/overview/introduction",
+              "dora/overview/getting-started",
+              "dora/overview/download",
               "dora/overview/log-in",
               "dora/overview/updates",
               "dora/overview/privacy",
