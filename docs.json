@@ -80,7 +80,7 @@
           {
             "group": "Overview",
             "pages": [
-              "godview/overview/introduction",
+              "godview/overview/getting-started",
               "godview/overview/mobile-app"
             ]
           },
