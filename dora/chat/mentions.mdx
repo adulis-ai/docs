@@ -1,4 +1,32 @@
 ---
 title: Mentions
-description: "Learn how to mention files in chat and the different modes."
 ---
+
+Dora allows you to mention files and folders to add as context to the chat.
+There are different ways to mention a file.
+
+## From The Chat Window
+<Frame>
+    <img src="/assets/images/dora/chat/mentions1.png" />
+</Frame>
+You can mention files and folders right from your chat box by simply typing the letter `@`.
+The letter `@` will be detected by Dora and display a floater list of files and folders in your current working directory.
+Simply click on any of the items listed and they will be added to your chat session as context.
+
+
+## From The Explorer
+<Frame>
+    <img src="/assets/images/dora/chat/mentions2.png" />
+</Frame>
+Alternatievly, you can mention files and folders simply by right-clicking on any of them add clicking "Mention in Chat".
+
+---
+
+### Limitations
+All mentioned files and folders will be added to the context window as reference but not all of them will have their content parsed and digested by the model.
+Size and file type limitations apply, however their path and name will be shared with the model for reference.
+
+### Parsable File Types
+* PDFs
+* Code/Text
+* Word Docs
