@@ -22,9 +22,9 @@
   },
   "favicon": "/assets/favicon.png",
   "navigation": {
-    "tabs": [
+    "dropdowns": [
       {
-        "tab": "Documentation",
+        "dropdown": "Documentation",
         "pages": [
           "home/overview",
           "home/account",
@@ -32,7 +32,7 @@
         ]
       },
       {
-        "tab": "Dora",
+        "dropdown": "Dora",
         "icon": "folder",
         "groups": [
           {
@@ -74,7 +74,7 @@
         ]
       },
       {
-        "tab": "Godview",
+        "dropdown": "Godview",
         "icon": "map",
         "groups": [
           {
@@ -103,7 +103,7 @@
         ]
       },
       {
-        "tab": "Persys",
+        "dropdown": "Persys",
         "icon": "microchip-ai",
         "pages": [
           "persys/getting-started",
